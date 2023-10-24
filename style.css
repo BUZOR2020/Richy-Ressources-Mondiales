@@ -1,0 +1,28 @@
+body{
+  background-color: lightblue;
+}
+
+h1, html {
+  text-align: center;
+  font-style: initial;
+  font-size: 50%
+  font-family: "Algerian";
+  color: rgb(26,25,25);
+
+
+}
+
+p, html {
+  font-family: verdana;
+  font-size: 20px;
+  color: rgb(0,68,0);
+
+}
+.container {
+  align-items: center; 
+  float: left;
+}
+.image{
+    float: left;
+  padding: 5px;
+}
